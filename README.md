@@ -390,8 +390,3 @@ The combined analysis simultaneously generates comprehensive plots for:
 
 > **Note**: This approach is particularly useful for troubleshooting and parameter optimization before running full batch analyses.
 
----
-
-# Use Andrei N. 
-
-    git clone https://github.com/ZeEzTw/RootCalib.git
